@@ -4,4 +4,4 @@ Buscador de Archivos Local El BAL buscar archivo .txt, .pdf, .xls y .doc en tu c
 
 Busca en todas las carpetas logra acceder en archivos catché y logra encontrar archivos recien eliminados aun haberlos eliminado de reciclaje(si la computadora aun no lo desecha). Tambien encuentra copias de archivos que hayan sido eliminados hace bastante tiempo que se almacenan en lo muy profundo de las computadoras
 
-![ScreenShot](https://raw.github.com/Gamas-G/BAL/master/BAL-master\screen/Pantalla1.png)
+![ScreenShot](https://raw.github.com/Gamas-G/BAL/master/BAL-master/Screen/Pantalla1.png)
