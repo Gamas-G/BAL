@@ -7,7 +7,8 @@ Busca en todas las carpetas logra acceder en archivos catché y logra encontrar 
 Vista general
 ![ScreenShot](https://raw.github.com/Gamas-G/BAL/master/BAL-master/Screen/Pantalla1.png)
 
-En esta capura se muestra un ejemplo de busqueda con la palabra 'Gamas' y el resultado trae archivos con una ruta bastante larga archivos que fueron eliminados pero aun siguen existentes en la computadora
+En esta capura se muestra un ejemplo de busqueda con la palabra 'Gamas' y el resultado trae archivos con una ruta bastante larga archivos que fueron eliminados pero aun siguen existentes en la computadora.
+Esto por su parte puede ser provechoso en algun archivo eliminado y se requeire su recuperacion pueda ser recuperado o bien tener en cuenta que se esta ocupando memoria por estos documentos y muchos mas.
 ![ScreenShot](https://raw.github.com/Gamas-G/BAL/master/BAL-master/Screen/Pantalla2.png)
 
 Aquí muestra mas datos como, coincidencias dentro del archivo el día de creacion, ultima modificacion y el tipo en la parte superior muestra archivos que tuvieron coincidencia pero no se pude acceder a ellos.
